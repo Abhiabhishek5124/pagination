@@ -1,0 +1,32 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+  #petInfo {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+  }
+
+  #petInfo em {
+    font-style: normal;
+    font-weight: bold;
+  }
+
+  #petInfo p {
+    margin: 0;
+    padding: 5px 0;
+  }
+
+ 
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.6rem;
+    }
+  }
